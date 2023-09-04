@@ -9,5 +9,5 @@
    - View presentation on YouTube (https://www.youtube.com/watch?v=eIkLr5Bw5gs).
      
 - **Column3D**
-   - a 3D model of an object is a separate unit with the ability to study its structure (including internal) and functioning and a production process with the ability to simulate various work scenarios (Unity3D, C#, Azure DevOps)
+   - a 3D model of an object is a separate unit with the ability to study its structure (including internal) and functioning and a production process with the ability to simulate various work scenarios (Unity3D, C#)
    - View presentation on YouTube (https://www.youtube.com/watch?v=PbFEAXktKmk).
