@@ -1,6 +1,6 @@
 # Portfolio C# Software Engineer Unity 3D
 ## Work projects in code
-- FactoryProject3D
+- **FactoryProject3D**
    - a full-fledged 3D model of the territory with the ability to move and interact with objects as in real life, then this 3D model was transferred to VR (Unity3D/VR, C#)
    - View presentation on YouTube (https://www.youtube.com/watch?v=J5pRZyfo9kM).
 - Panorama3D
