@@ -1,0 +1,6 @@
+
+
+public class FireExtinguisher : Interactable
+{
+
+}
